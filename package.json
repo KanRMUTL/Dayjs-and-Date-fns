@@ -4,6 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "date-fns": "^2.23.0",
+    "dayjs": "^1.10.6",
     "moment": "^2.29.1"
   }
 }
